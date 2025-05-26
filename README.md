@@ -9,7 +9,7 @@ Sou um estudante de programação apaixonado por tecnologia. Meu objetivo é me 
 - React | TailwindCSS | TypeScript
 - Python | Git & GitHub
 
-## 📘 Últimos Projetos
+## 📘 Últimos Projetos:
 - 🎨 **Calculadora Samsung-Inspired** – Em desenvolvimento com React
 - 📝 **To Do List** - Em desenvolvimento com React
 
