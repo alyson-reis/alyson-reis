@@ -11,7 +11,7 @@ Sou um estudante de programação apaixonado por tecnologia. Meu objetivo é me 
 
 ## 📘 Últimos Projetos
 - 🎨 **Calculadora Samsung-Inspired** – Em desenvolvimento com React
-- 📝 **To Do List - Em desenvolvimento com React
+- 📝 **To Do List** - Em desenvolvimento com React
 
 ## 📈 Em breve:
 - APIs REST
