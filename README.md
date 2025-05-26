@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou Alyson 👋
 
-<!--
-**alyson-reis/alyson-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de programação apaixonado por tecnologia. Meu objetivo é me tornar um desenvolvedor **Full-stack**, focando no desenvolvimento de sites com **React, TypeScript e Tailwind**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tecnologias que estou aprendendo:
+- HTML | CSS | JavaScript
+- React | TailwindCSS | TypeScript
+- Python | Git & GitHub
+
+## 📘 Últimos Projetos
+- 🎨 **Calculadora Samsung-Inspired** – Em desenvolvimento com React
+- 📝 **To Do List - Em desenvolvimento com React
+
+## 📈 Em breve:
+- APIs REST
+- Backend com Node.js
+- Banco de dados com PostgreSQL
