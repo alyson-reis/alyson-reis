@@ -15,6 +15,7 @@ Sou um estudante de programação apaixonado por tecnologia. Meu objetivo é me 
 - 🪪 **Lista de Inscrição** - Em desenvolvimento com  React, TailwindCSS e TypeScript
 
 ## 📈 Em breve:
+- Next.Js
 - APIs REST
 - Backend com Node.js
-- Banco de dados com PostgreSQL
+
